@@ -36,7 +36,7 @@ var abc = function() {
  }
 ```
 
-여기를 클릭하세요 => [NAVER](http://www.naver.com)
+여기를 클릭하세요 => [NAVER](http://www.naver.com "네이버")
 
 ### Table
 | Left-Aligned  | Center Aligned  | Right Aligned |
